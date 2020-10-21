@@ -30,7 +30,7 @@ public class Program {
 		File file = new File(strPath);
 		String strParent = file.getParent();
 
-		boolean sucesso = new File(strParent + "/out").mkdir();
+		// boolean sucesso = new File(strParent + "/out").mkdir();
 		String caminhoArquivo = strParent + "/out/summary.csv";
 
 		try (BufferedReader br = new BufferedReader(new FileReader(strPath))) {
