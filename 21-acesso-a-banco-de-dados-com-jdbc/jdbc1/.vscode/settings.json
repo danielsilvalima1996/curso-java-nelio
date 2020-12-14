@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/daniel/Documentos/curso-java-nelio/21-acesso-a-banco-de-dados-com-jdbc/jdbc1/**/*.jar",
+        "/home/daniel/Downloads/**/*.jar"
+    ]
+}
